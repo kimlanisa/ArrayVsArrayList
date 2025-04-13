@@ -1,7 +1,3 @@
-Sure! Here's the English version of your `README.md`:
-
----
-
 # 📚 Array vs ArrayList in Java
 
 This project demonstrates the use and performance comparison between **Array** and **ArrayList** in Java. It includes basic operations such as traversal, search, insertion, deletion, and sorting. Additionally, it provides an analysis of execution time between the two data structures.
@@ -81,5 +77,3 @@ ArrayList Traversal: [10, 25, 30, 40, 50]
 - **Array** is faster for simple operations and uses less memory.
 - **ArrayList** is more flexible (resizable) and easier to work with, but slower when inserting or removing elements in the middle.
 - This comparison is useful for understanding when to use each data structure based on performance and usability.
-
----
